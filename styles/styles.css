@@ -95,18 +95,11 @@ p {
 }
 
 @media screen and (max-width: 500px) {
-    * {
-        max-width: 70%;
-    }
-    
     #title {
         font-size: 20px;
     }
     h2 {
     font-size: 30px;
     margin-bottom: 10px;
-    }
-    button {
-        width: 140px; 
     }
 }
